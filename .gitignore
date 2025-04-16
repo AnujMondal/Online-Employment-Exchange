@@ -1,0 +1,36 @@
+# NetBeans specific files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Package files
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# JVM crash logs
+hs_err_pid*
+
+# Mac OS specific
+.DS_Store
+
+# IDE files
+.project
+.classpath
+.settings/
+
+# Database configuration if any
+src/conf/persistence.xml

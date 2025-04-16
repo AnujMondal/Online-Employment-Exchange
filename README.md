@@ -33,8 +33,8 @@ Meet the awesome team behind this project:
 
 | Name | GitHub | LinkedIn |
 |------|--------|---------|
-| **Nandini Kapil** | [@GitHub](https://github.com/Nandini0029) | [LinkedIn](https://www.linkedin.com/in/nandini-kapil-3704b3242) |
 | **Anuj Mondal** | [@GitHub](https://github.com/AnujMondal) | [LinkedIn](www.linkedin.com/in/anujmondal) |
+| **Nandini Kapil** | [@GitHub](https://github.com/Nandini0029) | [LinkedIn](https://www.linkedin.com/in/nandini-kapil-3704b3242) |
 | **Charu Thakral** | [@GitHub](https://github.com/CharuThakral03) | [LinkedIn](https://www.linkedin.com/in/charuthakral) |
 | **Aashutosh Srivastava** | [@GitHub](https://github.com/Aashutosh-Srivastava) | [LinkedIn](https://www.linkedin.com/in/aashutosh-srivastava-7105b4344/) |
 
